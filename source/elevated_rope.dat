@@ -1,0 +1,88 @@
+---
+obj=way
+name=elevated_rope-30
+copyright=Kitasuminarumin,wa,D_Metoro
+waytype=track
+system_type=1
+cost=1500
+maintenance=50
+topspeed=30
+
+intro_year=1800
+intro_month=4
+retire_year=3000
+retire_month=4
+
+icon=> rope_element.0.4
+cursor=rope.2.1
+
+# èIí[
+
+Image[S]=kyomu.0.0
+Image[E]=kyomu.0.1
+Image[N]=kyomu.0.2
+Image[W]=kyomu.0.3
+FrontImage[S]=rope.0.0
+FrontImage[E]=rope.0.1
+FrontImage[N]=rope.0.2
+FrontImage[W]=rope.0.3
+
+# ã»Ç™ÇËäp
+
+Image[SE]=kyomu.1.0
+Image[NE]=kyomu.1.1
+Image[NW]=kyomu.1.2
+Image[SW]=kyomu.1.3
+FrontImage[SE]=rope.1.0
+FrontImage[NE]=rope.1.1
+FrontImage[NW]=rope.1.2
+FrontImage[SW]=rope.1.3
+
+
+# â°èc
+
+Image[NS]=kyomu.2.0
+Image[EW]=kyomu.2.1
+FrontImage[NS]=rope.2.0
+FrontImage[EW]=rope.2.1
+
+
+# åç∑
+
+Image[NSEW]=kyomu.2.2
+Image[-]=kyomu.2.2
+FrontImage[NSEW]=rope.2.2
+FrontImage[-]=rope.2.2
+
+# ç‚
+
+ImageUp[12]=kyomu.3.0
+ImageUp[9]=kyomu.3.1
+ImageUp[3]=kyomu.3.3
+ImageUp[6]=kyomu.3.2
+FrontImageUp[12]=rope.3.0
+FrontImageUp[9]=rope.3.1
+FrontImageUp[3]=rope.3.3
+FrontImageUp[6]=rope.3.2
+
+# ã}ç‚
+
+ImageUp2[12]=kyomu.4.0
+ImageUp2[9]=kyomu.4.1
+ImageUp2[3]=kyomu.4.2
+ImageUp2[6]=kyomu.4.3
+FrontImageUp2[12]=rope.4.0,0,-16
+FrontImageUp2[9]=rope.4.1,0,-16
+FrontImageUp2[3]=rope.4.2,0,-16
+FrontImageUp2[6]=rope.4.3,0,-16
+
+# ï™äÚ
+
+Image[NSE]=kyomu.5.0
+Image[NEW]=kyomu.5.1
+Image[NSW]=kyomu.5.2
+Image[SEW]=kyomu.5.3
+FrontImage[NSE]=rope.5.0
+FrontImage[NEW]=rope.5.1
+FrontImage[NSW]=rope.5.2
+FrontImage[SEW]=rope.5.3
