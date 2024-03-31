@@ -2,7 +2,7 @@
 obj=bridge
 name=rope(bridge)-30
 copyright=Kitasuminarumin,wa,D_Metoro
-waytype=track
+waytype=road
 cost=1500
 maintenance=50
 topspeed=30
@@ -22,67 +22,67 @@ cursor=rope.2.1
 
 # 本体の画像指定
 
-BackImage[NS]=kyomu.2.0
+BackImage[NS]=rope.2.0
 FrontImage[NS]=rope.2.0
-BackImage[EW]=kyomu.2.1
+BackImage[EW]=rope.2.1
 FrontImage[EW]=rope.2.1
 
-BackImage2[NS]=kyomu.2.0
+BackImage2[NS]=rope.2.0
 FrontImage2[NS]=rope.2.0
-BackImage2[EW]=kyomu.2.1
+BackImage2[EW]=rope.2.1
 FrontImage2[EW]=rope.2.1
 
 # 始点(斜面)
 
-BackStart[N]=kyomu.2.0
+BackStart[N]=rope.2.0
 FrontStart[N]=rope.2.0
-BackStart[S]=kyomu.2.0
+BackStart[S]=rope.2.0
 FrontStart[S]=rope.2.0
-BackStart[E]=kyomu.2.1
+BackStart[E]=rope.2.1
 FrontStart[E]=rope.2.1
-BackStart[W]=kyomu.2.1
+BackStart[W]=rope.2.1
 FrontStart[W]=rope.2.1
 
 # 始点(急斜面)
 
-BackStart2[N]=kyomu.2.0
+BackStart2[N]=rope.2.0
 FrontStart2[N]=rope.2.0
-BackStart2[S]=kyomu.2.0
+BackStart2[S]=rope.2.0
 FrontStart2[S]=rope.2.0
-BackStart2[E]=kyomu.2.1
+BackStart2[E]=rope.2.1
 FrontStart2[E]=rope.2.1
-BackStart2[W]=kyomu.2.1
+BackStart2[W]=rope.2.1
 FrontStart2[W]=rope.2.1
 
 # ランプ(坂)
 
-BackRamp[N]=kyomu.3.0
+BackRamp[N]=rope.3.0
 FrontRamp[N]=rope.3.0
-BackRamp[S]=kyomu.3.2
-FrontRamp[S]=rope.3.2
-BackRamp[E]=kyomu.3.3
-FrontRamp[E]=rope.3.3
-BackRamp[W]=kyomu.3.1
+BackRamp[S]=rope.3.3
+FrontRamp[S]=rope.3.3
+BackRamp[E]=rope.3.2
+FrontRamp[E]=rope.3.2
+BackRamp[W]=rope.3.1
 FrontRamp[W]=rope.3.1
 
 # ランプ(急坂)
 
-BackRamp2[N]=kyomu.4.0
+BackRamp2[N]=rope.4.0
 FrontRamp2[N]=rope.4.0
-BackRamp2[S]=kyomu.4.2
+BackRamp2[S]=rope.4.2
 FrontRamp2[S]=rope.4.2
-BackRamp2[E]=kyomu.4.3
+BackRamp2[E]=rope.4.3
 FrontRamp2[E]=rope.4.3
-BackRamp2[W]=kyomu.4.1
+BackRamp2[W]=rope.4.1
 FrontRamp2[W]=rope.4.1
 
 # 橋脚
-backPillar[S]=kyomu.0.0
-FrontPillar[S]=kyomu.0.0
-backPillar[W]=kyomu.0.0
-FrontPillar[W]=kyomu.0.0
-backPillar2[S]=kyomu.0.0
-FrontPillar2[S]=kyomu.0.0
-backPillar2[W]=kyomu.0.0
-FrontPillar2[W]=kyomu.0.0
+backPillar[S]=rope.0.0
+FrontPillar[S]=rope.0.0
+backPillar[W]=rope.0.0
+FrontPillar[W]=rope.0.0
+backPillar2[S]=rope.0.0
+FrontPillar2[S]=rope.0.0
+backPillar2[W]=rope.0.0
+FrontPillar2[W]=rope.0.0
 
