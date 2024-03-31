@@ -1,0 +1,24 @@
+obj=roadsign
+name=pole_long
+copyright=D_Metoro
+cost=10
+waytype=track
+copyright=timeshock
+min_speed=0
+
+is_signal=1
+
+offset_left=0
+
+Image[0]=pole_long.0.0,32,0
+Image[1]=pole_long.0.1,-32,0
+Image[2]=pole_long.0.2,0,-17
+Image[3]=pole_long.0.3,0,16
+
+Image[4]=pole_long.0.0,32,0
+Image[5]=pole_long.0.1,-32,0
+Image[6]=pole_long.0.2,0,-17
+Image[7]=pole_long.0.3,0,16
+
+Icon=> rope_element.0.6
+Cursor=pole.0.0
