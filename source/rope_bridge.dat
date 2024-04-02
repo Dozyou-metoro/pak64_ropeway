@@ -1,3 +1,7 @@
+#----------------------------------------
+#ロープウェイセット用ロープ(橋)
+#制作；どじょう
+#----------------------------------------
 ---
 obj=bridge
 name=rope(bridge)-30
@@ -56,33 +60,34 @@ FrontStart2[W]=rope.2.1
 
 # ランプ(坂)
 
-BackRamp[N]=rope.3.0
-FrontRamp[N]=rope.3.0
-BackRamp[S]=rope.3.3
-FrontRamp[S]=rope.3.3
-BackRamp[E]=rope.3.2
-FrontRamp[E]=rope.3.2
-BackRamp[W]=rope.3.1
-FrontRamp[W]=rope.3.1
+BackRamp[N]=rope.4.0
+FrontRamp[N]=rope.4.0
+BackRamp[W]=rope.4.1
+FrontRamp[W]=rope.4.1
+BackRamp[S]=rope.4.2
+FrontRamp[S]=rope.4.2
+BackRamp[E]=rope.4.3
+FrontRamp[E]=rope.4.3
 
 # ランプ(急坂)
 
-BackRamp2[N]=rope.4.0
-FrontRamp2[N]=rope.4.0
-BackRamp2[S]=rope.4.2
-FrontRamp2[S]=rope.4.2
-BackRamp2[E]=rope.4.3
-FrontRamp2[E]=rope.4.3
-BackRamp2[W]=rope.4.1
-FrontRamp2[W]=rope.4.1
+BackRamp2[N]=rope.5.0
+FrontRamp2[N]=rope.5.0
+BackRamp2[W]=rope.5.1
+FrontRamp2[W]=rope.5.1
+BackRamp2[E]=rope.5.2
+FrontRamp2[E]=rope.5.2
+BackRamp2[S]=rope.5.3
+FrontRamp2[S]=rope.5.3
+
 
 # 橋脚
-backPillar[S]=rope.0.0
-FrontPillar[S]=rope.0.0
-backPillar[W]=rope.0.0
-FrontPillar[W]=rope.0.0
-backPillar2[S]=rope.0.0
-FrontPillar2[S]=rope.0.0
-backPillar2[W]=rope.0.0
-FrontPillar2[W]=rope.0.0
+backPillar[S]=kyomu.0.0
+FrontPillar[S]=kyomu.0.0
+backPillar[W]=kyomu.0.0
+FrontPillar[W]=kyomu.0.0
+backPillar2[S]=kyomu.0.0
+FrontPillar2[S]=kyomu.0.0
+backPillar2[W]=kyomu.0.0
+FrontPillar2[W]=kyomu.0.0
 

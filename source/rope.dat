@@ -1,11 +1,11 @@
 #----------------------------------------
-#ロープウェイセット
+#ロープウェイセット用ロープ(地上)
 #制作；どじょう
 #----------------------------------------
 ---
 obj=way
 name=rope-30
-copyright=Kitasuminarumin,wa,D_Metoro
+copyright=D_Metoro
 waytype=road
 system_type=0
 cost=1500
