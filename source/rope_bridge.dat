@@ -5,7 +5,7 @@
 ---
 obj=bridge
 name=rope(bridge)-30
-copyright=Kitasuminarumin,wa,D_Metoro
+copyright=D_Metoro
 waytype=road
 cost=1500
 maintenance=50
@@ -27,36 +27,36 @@ cursor=rope.2.1
 # 本体の画像指定
 
 BackImage[NS]=rope.2.0
-FrontImage[NS]=rope.2.0
+FrontImage[NS]=kyomu.2.0
 BackImage[EW]=rope.2.1
-FrontImage[EW]=rope.2.1
+FrontImage[EW]=kyomu.2.1
 
 BackImage2[NS]=rope.2.0
-FrontImage2[NS]=rope.2.0
+FrontImage2[NS]=kyomu.2.0
 BackImage2[EW]=rope.2.1
-FrontImage2[EW]=rope.2.1
+FrontImage2[EW]=kyomu.2.1
 
 # 始点(斜面)
 
 BackStart[N]=rope.2.0
-FrontStart[N]=rope.2.0
+FrontStart[N]=kyomu.2.0
 BackStart[S]=rope.2.0
-FrontStart[S]=rope.2.0
+FrontStart[S]=kyomu.2.0
 BackStart[E]=rope.2.1
-FrontStart[E]=rope.2.1
+FrontStart[E]=kyomu.2.1
 BackStart[W]=rope.2.1
-FrontStart[W]=rope.2.1
+FrontStart[W]=kyomu.2.1
 
 # 始点(急斜面)
 
 BackStart2[N]=rope.2.0
-FrontStart2[N]=rope.2.0
+FrontStart2[N]=kyomu.2.0
 BackStart2[S]=rope.2.0
-FrontStart2[S]=rope.2.0
+FrontStart2[S]=kyomu.2.0
 BackStart2[E]=rope.2.1
-FrontStart2[E]=rope.2.1
+FrontStart2[E]=kyomu.2.1
 BackStart2[W]=rope.2.1
-FrontStart2[W]=rope.2.1
+FrontStart2[W]=kyomu.2.1
 
 # ランプ(坂)
 

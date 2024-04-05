@@ -1,9 +1,9 @@
 #-------------------------------------------
-#クワッドリフト
+#試験用リフト
 #作：どじょう
 #-------------------------------------------
 obj=vehicle
-name=quad lift
+name=test lift
 copyright=D_Metoro
 waytype=road
 engine_type=battery
@@ -12,24 +12,24 @@ payload=4
 speed=30
 cost=10000
 weight=0.3
-power=10
+power=10000
 RunningCost=1
 length=0
 
-EmptyImage[S]=quad_lift.0.0
+EmptyImage[S]=test_lift.0.0
 #FreightImage[S]=
-EmptyImage[E]=quad_lift.0.1
+EmptyImage[E]=test_lift.0.1
 #FreightImage[E]=
-EmptyImage[N]=quad_lift.0.4
+EmptyImage[N]=test_lift.0.4
 #FreightImage[N]=
-EmptyImage[W]=quad_lift.0.5
+EmptyImage[W]=test_lift.0.5
 #FreightImage[W]=
 
-EmptyImage[SE]=quad_lift.0.2
+EmptyImage[SE]=test_lift.0.2
 #FreightImage[SE]=
-EmptyImage[SW]=quad_lift.0.3
+EmptyImage[SW]=test_lift.0.3
 #FreightImage[SW]=
-EmptyImage[NW]=quad_lift.0.6
+EmptyImage[NW]=test_lift.0.6
 #FreightImage[NW]
-EmptyImage[NE]=quad_lift.0.7
+EmptyImage[NE]=test_lift.0.7
 #FreightImage[NE]=
