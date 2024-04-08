@@ -6,7 +6,7 @@
 obj=bridge
 name=rope(bridge)-30
 copyright=D_Metoro
-waytype=road
+waytype=water
 cost=1500
 maintenance=50
 topspeed=30
@@ -14,7 +14,7 @@ pillar_distance=0
 max_length=0
 pillar_asymmetric=0
 max_height=0
-
+draw_as_ding=1 
 
 intro_year=1800
 intro_month=4

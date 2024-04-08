@@ -6,11 +6,12 @@
 obj=way
 name=elevated_rope-30
 copyright=D_Metoro
-waytype=road
+waytype=water
 system_type=1
 cost=1500
 maintenance=50
 topspeed=30
+draw_as_ding=1 
 
 intro_year=1800
 intro_month=4

@@ -5,7 +5,7 @@
 obj=vehicle
 name=quad lift
 copyright=D_Metoro
-waytype=road
+waytype=water
 engine_type=battery
 freight=Passagiere
 payload=4
