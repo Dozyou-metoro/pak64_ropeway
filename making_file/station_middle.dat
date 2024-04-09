@@ -13,7 +13,7 @@ enables_pax=1
 enables_post=1
 enables_ware=1
 level=1
-waytype=road
+waytype=water
 
 
 BackImage[0][0][0][0][0][0]=station_middle.0.0
