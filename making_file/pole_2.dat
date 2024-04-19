@@ -1,0 +1,19 @@
+---------------------------------------------------
+obj=roadsign
+name=pole_2slope
+copyright=D_Metoro
+cost=10
+waytype=water
+min_speed=1
+single_way=0
+
+offset_left=0
+
+Image[0]=pole.0.0,16,-6
+Image[1]=pole.0.1,16,0
+Image[2]=pole.0.2
+Image[3]=pole.0.3
+
+
+Icon=> rope_element.0.5
+Cursor=pole.0.0
