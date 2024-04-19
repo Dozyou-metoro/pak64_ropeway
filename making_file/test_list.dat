@@ -12,7 +12,7 @@ payload=4
 speed=30
 cost=10000
 weight=0.3
-power=10000
+power=10
 RunningCost=1
 length=0
 
