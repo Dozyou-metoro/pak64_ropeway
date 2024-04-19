@@ -5,7 +5,7 @@
 obj=vehicle
 name=test lift
 copyright=D_Metoro
-waytype=road
+waytype=water
 engine_type=battery
 freight=Passagiere
 payload=4
@@ -16,20 +16,20 @@ power=10000
 RunningCost=1
 length=0
 
-EmptyImage[S]=test_lift.0.0
+EmptyImage[S]=test_lift.0.0,12,6
 #FreightImage[S]=
-EmptyImage[E]=test_lift.0.1
+EmptyImage[E]=test_lift.0.1,12,-6
 #FreightImage[E]=
-EmptyImage[N]=test_lift.0.4
+EmptyImage[N]=test_lift.0.4,-12,-6
 #FreightImage[N]=
-EmptyImage[W]=test_lift.0.5
+EmptyImage[W]=test_lift.0.5,-12,6
 #FreightImage[W]=
 
-EmptyImage[SE]=test_lift.0.2
+EmptyImage[SE]=test_lift.0.2,12,0
 #FreightImage[SE]=
-EmptyImage[SW]=test_lift.0.3
+EmptyImage[SW]=test_lift.0.3,0,6
 #FreightImage[SW]=
-EmptyImage[NW]=test_lift.0.6
+EmptyImage[NW]=test_lift.0.6,-14,0
 #FreightImage[NW]
-EmptyImage[NE]=test_lift.0.7
+EmptyImage[NE]=test_lift.0.7,0,-6
 #FreightImage[NE]=
