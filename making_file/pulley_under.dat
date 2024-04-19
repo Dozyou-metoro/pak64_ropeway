@@ -1,0 +1,89 @@
+#----------------------------------------
+#ロープウェイセット用小滑車
+#制作；どじょう
+#----------------------------------------
+---
+obj=way-object
+name=pulley_under
+copyright=D_Metoro
+cost=1500
+maintenance=50
+topspeed=55
+#intro_year=1879
+waytype=water
+own_waytype=electrified_track
+
+icon=> rope_element.0.6
+cursor=pulley_under.2.1
+
+# 終端
+
+BackImage[S]=pulley_under.0.0
+BackImage[W]=pulley_under.0.1
+BackImage[N]=pulley_under.0.2
+BackImage[E]=pulley_under.0.3
+FrontImage[S]=kyomu.0.0
+FrontImage[W]=kyomu.0.1
+FrontImage[N]=kyomu.0.2
+FrontImage[E]=kyomu.0.3
+
+# 曲がり角
+
+BackImage[SW]=pulley_under.1.0
+BackImage[NW]=pulley_under.1.1
+BackImage[NE]=pulley_under.1.2
+BackImage[SE]=pulley_under.1.3
+FrontImage[SW]=pulley_under.1.0
+FrontImage[NW]=pulley_under.1.1
+FrontImage[NE]=pulley_under.1.2
+FrontImage[SE]=pulley_under.1.3
+
+
+# 横縦
+
+BackImage[NS]=pulley_under.2.0
+BackImage[EW]=pulley_under.2.1
+FrontImage[NS]=kyomu.2.0
+FrontImage[EW]=kyomu.2.1
+
+
+# 交差
+
+BackImage[NSEW]=pulley_under.2.2
+BackImage[-]=pulley_under.2.3
+FrontImage[NSEW]=pulley_under.2.2
+FrontImage[-]=pulley_under.2.3
+
+# 分岐
+
+BackImage[NEW]=pulley_under.3.0
+BackImage[NSE]=pulley_under.3.1
+BackImage[SEW]=pulley_under.3.2
+BackImage[NSW]=pulley_under.3.3
+FrontImage[NEW]=pulley_under.3.0
+FrontImage[NSE]=pulley_under.3.1
+FrontImage[SEW]=pulley_under.3.2
+FrontImage[NSW]=pulley_under.3.3
+
+
+# 坂
+
+BackImageUp[12]=pulley_under.4.0
+BackImageUp[9]=pulley_under.4.1
+BackImageUp[3]=pulley_under.4.2
+BackImageUp[6]=pulley_under.4.3
+FrontImageUp[12]=pulley_under.4.0
+FrontImageUp[9]=pulley_under.4.1
+FrontImageUp[3]=pulley_under.4.2
+FrontImageUp[6]=pulley_under.4.3
+
+# 急坂
+
+BackImageUp2[12]=pulley_under.5.0,0,-8
+BackImageUp2[9]=pulley_under.5.1,0,-8
+BackImageUp2[3]=pulley_under.5.2,0,-8
+BackImageUp2[6]=pulley_under.5.3,0,-8
+FrontImageUp2[12]=pulley_under.5.0,0,-8
+FrontImageUp2[9]=pulley_under.5.1,0,-8
+FrontImageUp2[3]=pulley_under.5.2,0,-8
+FrontImageUp2[6]=pulley_under.5.3,0,-8
