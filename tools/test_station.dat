@@ -7,14 +7,13 @@ Obj=building
 Name=test_station
 copyright=D_Metoro
 NoInfo=1
-Dims=1,1,16
-type=stop
+Dims=2,1,4
+level=1
+type=extension
 enables_pax=1
 enables_post=1
 enables_ware=1
-level=1
 waytype=water
-
 
 BackImage[0][0][0][0][0][0]=test_station.0.0
 FrontImage[0][0][0][0][0][0]=test_station.0.0
